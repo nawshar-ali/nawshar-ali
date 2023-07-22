@@ -29,7 +29,7 @@ I'm Nabil, a software engineer from bKash Limited.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JohnDoe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nabil28)
-[![Codeforces](https://img.shields.io/badge/Twitter-JohnDoe-blue?style=flat-square&logo=twitter)](https://codeforces.com/profile/Nabil28)
-[![Codechef](https://img.shields.io/badge/Website-johndoe.dev-blue?style=flat-square)](https://codeforces.com/profile/Nabil28)
-[![Leetcode](https://img.shields.io/badge/Website-johndoe.dev-blue?style=flat-square)](https://leetcode.com/Nabil28/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabil28-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nabil28)
+[![Codeforces](https://img.shields.io/badge/Twitter-Nabil28-blue?style=flat-square&logo=twitter)](https://codeforces.com/profile/Nabil28)
+[![Codechef](https://img.shields.io/badge/Website-Nabil28-blue?style=flat-square)](https://codeforces.com/profile/Nabil28)
+[![Leetcode](https://img.shields.io/badge/Website-Nabil28-blue?style=flat-square)](https://leetcode.com/Nabil28/)
