@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**nawshar-ali/nawshar-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nabil, a software engineer from bKash Limited.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on microservice based projects
+- 🌱 I’m currently learning about system design
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about anything, I'm happy to help
+- 📫 How to reach me: nowsher.ali28@gmail.com
+
+## Skills
+
+- Languages: Java, Python
+- Frontend: HTML, CSS
+- Backend: Spring Boot
+- Databases: DynamoDB, Redis
+- Tools: Git, Docker
+- Cloud: AWS
+
+## GitHub Stats
+
+![Nabil GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawshar-ali&show_icons=true&hide_title=true&count_private=true&hide=prs,contribs&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawshar-ali&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JohnDoe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nabil28)
+[![Codeforces](https://img.shields.io/badge/Twitter-JohnDoe-blue?style=flat-square&logo=twitter)](https://codeforces.com/profile/Nabil28)
+[![Codechef](https://img.shields.io/badge/Website-johndoe.dev-blue?style=flat-square)](https://codeforces.com/profile/Nabil28)
+[![Leetcode](https://img.shields.io/badge/Website-johndoe.dev-blue?style=flat-square)](https://leetcode.com/Nabil28/)
