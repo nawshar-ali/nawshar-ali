@@ -21,7 +21,7 @@ I'm Nabil, a software engineer from bKash Limited.
 
 ## GitHub Stats
 
-![Nabil GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawshar-ali&show_icons=true&hide_title=true&count_private=true&hide=prs,contribs&theme=radical)
+![Nabil GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawshar-ali&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## Top Languages
 
