@@ -16,11 +16,10 @@
 
 - :school: I am a `Software Engineer` at bKash Limited
 - :trophy: 2x `ACM ICPC` Regionalist.
-- :technologist: I love problem solving `Problem`.
+- :technologist: I love `Problem solving`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’ve graduated in `Computer Science and Engineering` and [American International University Bangladesh](https://www.aiub.edu/).
+- :student: I’ve graduated in `Computer Science and Engineering` and [AIUB](https://www.aiub.edu/).
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
