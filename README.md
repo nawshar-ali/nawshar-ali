@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nabil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bKash+Limited;Computer+Science+Student;Competitive+Programmer;2x+ACM+ICPC+REGIONALIST;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bKash+Limited;Computer+Science+Student;Competitive+Programmer;2x+ACM+ICPC+REGIONALIST;Specialist+on+Codeforces;Division+2+on+Codechef+(3+Stars);1816 Rated on Leetcode;Always+learning+new+things"></a>
 </p>
 
 
