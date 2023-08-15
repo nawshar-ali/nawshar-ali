@@ -32,9 +32,6 @@
 	<a href="https://www.codechef.com/users/nabil28"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/B2GHAUBXOU47"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 </p>
-
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
 	
@@ -45,13 +42,13 @@
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nawshar-ali&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nawshar-ali&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nawshar-ali&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
