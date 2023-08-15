@@ -71,43 +71,6 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nawshar-ali&theme=tokyonight_duo" alt="nawshar-ali" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-
-[![Nawshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawshar-ali&count_private=true&show_icons=true&theme=dark)](https://github.com/nawshar-ali)
-
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nawshar-ali&theme=github	)](https://github.com/nawshar-ali/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
 [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
