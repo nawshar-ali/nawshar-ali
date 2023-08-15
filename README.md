@@ -84,11 +84,9 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="nawshar-ali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nawshar-ali&show_icons=true&theme=transparent" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nawshar-ali&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="nawshar-ali" height="230px"/>
+
+[![Nawshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawshar-ali&count_private=true&show_icons=true&theme=dark)](https://github.com/nawshar-ali)
+
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
