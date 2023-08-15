@@ -20,7 +20,6 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’ve graduated in `Computer Science and Engineering` from [AIUB](https://www.aiub.edu/).
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 
@@ -34,27 +33,3 @@
 </p>
 	
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nawshar-ali&repo=Ghor-Sheba&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=nawshar-ali&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
