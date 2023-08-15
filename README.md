@@ -17,7 +17,7 @@
 - :school: I am a `Software Engineer` at bKash Limited
 - :trophy: 2x `ACM ICPC` Regionalist.
 - :technologist: I love `Problem solving`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
 - :student: I’ve graduated in `Computer Science and Engineering` from [AIUB](https://www.aiub.edu/).
 - :nerd_face: Always `learning new things`.
 <br>
